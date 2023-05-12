@@ -1,0 +1,2 @@
+#wacht img {position: fixed; z-index: 9999; right: 0; float:right; top: 40%; margin-top: -25px; cursor: pointer; width: 55px; height: 55px;}
+#wacht-leftside img {position: fixed; z-index: 9999; left: 0; float:left; top: 40%; margin-top: -25px; cursor: pointer; width: 55px; height: 55px;}
